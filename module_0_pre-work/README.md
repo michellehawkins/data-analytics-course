@@ -12,5 +12,5 @@ Successfully prepare for the Tech Moms' 2.0 Data Analytics Course by completing 
 
 ## Bonus
 
-- [ ] Start a portfolio website (see orientation slides)
+- [ ] Start a portfolio website (see orientation slides) 
 
